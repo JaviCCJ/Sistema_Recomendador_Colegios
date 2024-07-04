@@ -1,4 +1,4 @@
-# Sistema_Recomendador_Colegios
+# Sistema Recomendador Colegios
 - Sistema Recomendador de Colegios para todas las regiones de Chile
 - Se recomienda utilizar Google Colab
 
