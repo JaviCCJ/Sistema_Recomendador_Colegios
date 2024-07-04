@@ -9,7 +9,7 @@
 - En caso de ejecutar de forma local, colocar '.'
 
 ## Como utilizar el sistema:
-- Tras ejecutar debe colocar su dirección en la sección 'Ingrese su dirección' incluyendo comuna y ciudad (ej: Zañartu 2400, Ñuñoa, Chile)
+- Tras ejecutar debe colocar su dirección en la sección 'Ingrese su dirección' incluyendo comuna y ciudad (ej: Zañartu 2400, Ñuñoa, Santiago)
 
 
 ## Datos Utilizados:
