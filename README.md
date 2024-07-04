@@ -5,7 +5,7 @@
 ## Como utilizar el sistema:
 - Se deben tener las 6 carpetas de datos utilizados en el mismo directorio de los códigos
 - Editar la variable 'path_directorio_og' colocaldo la ubicacion del directorio
-- en caso de correr de forma local, colocar '.'
+- En caso de ejecutar de forma local, colocar '.'
 
 
 ## Datos Utilizados:
