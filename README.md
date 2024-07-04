@@ -1,3 +1,6 @@
+
+![Departamento-de-Informtica_HORIZONTAL](https://github.com/JaviCCJ/Sistema_Recomendador_Colegios/assets/74026147/38782d66-7a4c-46b3-97bf-eaac0c08bd06)
+
 # Sistema Recomendador Colegios
 - Sistema Recomendador de Colegios para todas las regiones de Chile
 - Se recomienda utilizar Google Colab
